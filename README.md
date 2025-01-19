@@ -1,3 +1,6 @@
+linkedin
+
+https://www.linkedin.com/posts/abdul-basit-33a077348_searchalgorithms-activity-7286773514710228993-oKUt
 # Study
 Purpose of the Code:
 
